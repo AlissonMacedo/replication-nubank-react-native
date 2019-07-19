@@ -1,3 +1,6 @@
+# Replicando o Nubank
+Atenção este projeto foi criado seguindo
+um tutorial pela RocketSeact.
 <!--
 *** Obrigado por estar vendo o nosso README. Se você tiver alguma sugestão
 *** que possa melhorá-lo ainda mais dê um fork no repositório e crie uma Pull
