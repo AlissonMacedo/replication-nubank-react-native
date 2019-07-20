@@ -1,6 +1,6 @@
 # Replicando o Nubank
 Atenção este projeto foi criado seguindo
-um tutorial pela RocketSeact.
+um tutorial pela RocketSeact.<br />
 <img src="/demo/demo1.png?" />
 <img src="/demo/demo2.png?" />
 
